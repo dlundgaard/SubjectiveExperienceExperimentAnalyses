@@ -2,8 +2,6 @@
 
 This companion repository hosts the codebase for analyses carried out as part of the exam portfolio report for the Advanced Cognitive Neuroscience course at Aarhus University.
 
-## Repository structure
-
 `behavioural_analysis.ipynb` contains analyses of the behavioural data.
 `meg_analysis.ipynb` contains analyses of the electrophysiological data.
 
