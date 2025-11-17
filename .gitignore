@@ -1,7 +1,7 @@
 /*
 !.gitignore
-# !*.ipynb
-# !minimal.mplstyle
+!*.ipynb
+!minimal.mplstyle
 !requirements.txt
 !setup.sh
 !README.md
