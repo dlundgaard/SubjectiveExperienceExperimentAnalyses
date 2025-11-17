@@ -1,10 +1,10 @@
-# Study Group 0's Subjective Experience Experiment Analyses
+# Group 0's Subjective Experience Experiment Analyses
 
 This companion repository hosts the codebase for analyses carried out as part of the exam portfolio report for the Advanced Cognitive Neuroscience course at Aarhus University.
 
-[`behavioural_analysis.ipynb`](./behavioural_analysis.ipynb) contains analyses of the behavioural data.
+[`behavioural_analysis.ipynb`](./behavioural_analysis.ipynb) contains analysis of the behavioural data.
 
-[`meg_analysis.ipynb`](./meg_analysis.ipynb) contains analyses of the electrophysiological data.
+[`meg_analysis.ipynb`](./meg_analysis.ipynb) contains analysis of the electrophysiological data.
 
 ## Steps to reproduce
 
