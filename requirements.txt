@@ -1,4 +1,5 @@
 mne==1.10.0
+h5io==0.2.5
 scipy==1.16.1
 matplotlib==3.10.6
 sklearn==1.7.1
